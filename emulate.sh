@@ -1,5 +1,5 @@
 clear
-cd "/home/yahoo/Desktop/asembley-nauka/asembler/14 system"
+cd "YOUR REPOZITORY LOCATION"
 nasm boot/bootloader.asm -f bin -o bootloader.bin
 xxd bootloader.bin
 ls
