@@ -1,4 +1,4 @@
-# <h1>litle-16-bit-os</h1>
+# <h1>Little-16-bit-os</h1>
 This is a litle 16 bit os. It was fuuly wroten in asembley language for x86 architecture. If you are master in IT you should never open it. I wrote if for fun. It have a lot of bad practice in code. This repository can be intendet for beginers in os dev,however I don't recomande it beaceuse it havebad practics.
 
 <h2>Start up instruction:</h2>
